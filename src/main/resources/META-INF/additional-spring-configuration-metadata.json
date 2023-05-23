@@ -1,0 +1,15 @@
+{
+  "groups": [
+    {
+      "name": "reggie",
+      "type": "cn.zzh.reggie.common.BaseProperties",
+      "sourceType": "cn.zzh.reggie.common.BaseProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "reggie.path",
+      "type": "java.lang.String",
+      "description": "文件路径."
+  }
+] }
